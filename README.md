@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### Welcome to my personal introduction  
 🐟 I'm a collage student.    
 
 ✨ I'm interested in the direction:
