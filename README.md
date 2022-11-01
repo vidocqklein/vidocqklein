@@ -3,7 +3,7 @@
 
 ✨ I'm interested in the direction:
 - front-end development
-- CV
+- Reinforcement Learning
 
 📫 You can contact me by:
 - Email：`vidocqleaf@gmail.com`  
