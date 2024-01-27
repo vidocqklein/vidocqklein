@@ -3,7 +3,9 @@
 
 ✨ I'm interested in the direction:
 - front-end development
-- Reinforcement Learning
+- Privacy-Preserving
+- Artificial Intelligence Security
+- Graph Neural Networks
 
 📫 You can contact me by:
 - Email：`vidocqleaf@gmail.com`  
